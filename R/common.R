@@ -29,12 +29,5 @@ common <- function(data){
             }
         }
     }
+    common
 }
-
-
-data1=c('a','e','d')
-data2=c('a','c','e')
-data3=c('a','e','j')
-
-
-common
